@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Hi, I'm Dtsayy  
 - 🔭 I’m currently working on Bach Khoa University
-- 🌱 I’m currently learning Machine Learning and espectialy I'm interested in Naltural Language Processing
+- 🌱 I’m currently learning Machine Learning and espectialy I'm interested in Data Analyst
 - 👯 I’m looking to collaborate on ...
 
 <!--
