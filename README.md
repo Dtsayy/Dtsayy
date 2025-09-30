@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Hi, I'm Dtsayy  
-- 🔭 I’m currently working on Bach Khoa University
-- 🌱 I’m currently learning Machine Learning and espectialy I'm interested in Data Analyst
+- 🔭 I’m graduated from Bach Khoa University
+- 🌱 I’m currently learning Machine Learning and espectialy I'm interested in Analytic Engineer
 - 👯 I’m looking to collaborate on ...
 
 <!--
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 - 🌱 Hi, I'm Dtsayy  
-- 🔭 I’m currently working on Bach Khoa University
+- 🔭 I’m graduated from Bach Khoa University
 - 🌱 I’m currently learning Machine Learning and espectialy I'm interested in Naltural Language Processing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
